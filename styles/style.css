@@ -73,7 +73,7 @@
     /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
     .header__square-pic {
     position: absolute;
-    margin-top: 64px;
+    top: 64px;
     right: 0;
     height: 568px;
     width: 568px;
@@ -92,7 +92,6 @@
     display: flex;
     justify-content: space-between;
     align-items: stretch;
-    min-height: 340px;
     }
     
     .two-columns__brief {  
@@ -107,7 +106,6 @@
     
     .two-columns__main-text {  
     width: 80%;
-    margin-left: auto;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -118,7 +116,11 @@
     font-size: 24px;
     font-weight: normal; 
     margin-top: 0px;
-    margin-bottom: 0px;   
+    margin-bottom: 30px;   
+    }
+
+    .two-columns__paragraph:last-of-type {
+    margin-bottom: 0;
     }
     
     .two-columns__span-accent {
@@ -337,23 +339,22 @@
     .footer__column-links {
     display: flex;
     flex-direction: column;
+    list-style-type: none;
+    color: white;
+    padding: 0;
     margin-top: 20px;
+    margin-bottom: 16px;
+    }
+    .footer__column-link {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
-    list-style-type: none;
-    text-decoration: none;
-    color: white;
-    padding-left: 10px;
-    margin-bottom: 16px;
-    }
-            
-    .footer__column-links a {
-    list-style-type: none;
-    text-decoration: none;
-    color: white;
-    }
-        
+
+    }       
+   
      .footer__social-icon {
     width: 16px;
     height: 16px;
