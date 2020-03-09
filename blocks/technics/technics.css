@@ -1,0 +1,70 @@
+.technics {
+    width: 80%;
+    margin: auto;
+    
+}
+.section-title {
+    width: 60%;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: bold;
+    }
+    
+    .section-subtitle {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    text-align: center;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    }
+.cards {
+    width: 920px;
+    display: flex;
+    flex-wrap: wrap; 
+    margin: auto;
+    margin-right: auto;
+}
+.cards__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    margin-top: 0;
+    margin-right: 100px;
+    margin-bottom: 60px;
+    
+}
+.cards__item:nth-child(3) {
+    margin-right: 0;
+}
+.cards__image {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    margin: 60px 40px 0;
+}
+.cards__title {
+line-height: 1.15;
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+white-space: nowrap;
+margin-top: 43px;
+margin-bottom: 0;
+}
+
+.cards__description {
+line-height: 23px;
+font-size: 18px;
+font-weight: normal;
+text-align: center;
+margin-top: 16px;
+}
