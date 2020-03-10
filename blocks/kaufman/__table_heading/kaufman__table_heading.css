@@ -1,0 +1,10 @@
+@import url(./__table_heading_theme_dark/kaufman__table_heading_theme_dark.css);
+    .kaufman__table_heading {
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    }
+    
+   

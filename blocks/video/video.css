@@ -1,18 +1,13 @@
+@import url(./__section-subtitle/video__section-subtitle.css);
+@import url(./__section-title/video__section-title.css);
+@import url(./__iframes/video__iframes.css);
+@import url(./__iframe/video__iframe.css);
+
+
 .video {
     margin: auto;
     margin-top: 100px;
     margin-bottom: 0;
     position: relative;
     bottom: -50px;
-}
-     
-.video__iframes {
-display: flex;
-justify-content: center;
-margin-top: 50px;
-margin-bottom: 0;
-}
-.video__iframe {
-    margin-right: 20px;
-    margin-bottom: 0;
 }
