@@ -1,5 +1,5 @@
-@import url(./__section-title/technics__section-title.css);
-@import url(./__section-subtitle/technics__section-subtitle.css);
+@import url(./section-title/section-title.css);
+@import url(./section-subtitle/section-subtitle.css);
 @import url(./__cards/technics__cards.css);
 @import url(./__cards-description/technics__cards-description.css);
 @import url(./__cards-image/technics__cards-image.css);

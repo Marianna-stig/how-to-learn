@@ -1,9 +1,9 @@
-@import url(./__section-title/digits__section-title.css);
-@import url(./__section-subtitle/digits__section-subtitle.css);
+@import url(./section-title/section-title.css);
+@import url(./section-subtitle/section-subtitle.css);
 @import url(./__table/digits__table.css);
-@import url(./__table_cell/digits__table_cell.css);
-@import url(./__table_heading/digits__table_heading.css);
-@import url(./__table_text/digits__table_text.css);
+@import url(./__table-cell/digits__table-cell.css);
+@import url(./__table-heading/digits__table-heading.css);
+@import url(./__table-text/digits__table-text.css);
 
 .digits {
     margin: 100px auto;

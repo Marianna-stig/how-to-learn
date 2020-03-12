@@ -1,5 +1,8 @@
 
-.resources__logo {
+.resources__logo { 
+   list-style: none;  
+}
+ .resources__logo img{
     height: 38px;
-   width: 270px;   
+   width: 270px; 
 }
