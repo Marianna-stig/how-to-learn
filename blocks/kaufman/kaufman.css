@@ -2,17 +2,15 @@
 @import url(./__section-title/kaufman__section-title.css);
 @import url(./__section-subtitle/kaufman__section-subtitle.css);
 @import url(./__table/kaufman__table.css);
-@import url(./__table_cell/kaufman__table_cell.css);
-@import url(./__table_heading/kaufman__table_heading.css);
-@import url(./__table_text/kaufman__table_text.css);
-
+@import url(./__table-cell/kaufman__table-cell.css);
+@import url(./__table-heading/kaufman__table-heading.css);
+@import url(./__table-text/kaufman__table-text.css);
 
 .kaufman { 
-    
-    background-color: #1F1F1F; 
-    position: relative; 
-    overflow: hidden;  
-    } 
+  background-color: #1F1F1F; 
+  position: relative; 
+  overflow: hidden;  
+} 
   
          
     

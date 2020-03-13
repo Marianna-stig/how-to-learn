@@ -1,8 +1,7 @@
- 
-    .footer__columns {
-        display: flex;
-        flex-wrap: nowrap;
-        width: 90%;
-        margin: 60px auto 40px auto;
-        justify-content: space-between;
-        }
+ .footer__columns {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 90%;
+  margin: 60px auto 40px;
+  justify-content: space-between;
+}

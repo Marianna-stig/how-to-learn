@@ -1,12 +1,8 @@
-@import url(./__two-columns/oakley__two-columns.css);
-@import url(./__two-columns_brief/oakley__two-columns_brief.css);
-@import url(./__two-columns_main-text/oakley__two-columns_main-text.css);
-@import url(./__two-columns_paragraph/oakley__two-columns_paragraph.css);
-
+@import url(./two-columns/two-columns.css);
 .oakley {
-    display: flex;
-    justify-content: center;  
-    margin-top: 0;
-    background-color: #f2f2f2;
-    top:-160px; 
-    }
+ display: flex;
+ justify-content: center;  
+ margin-top: 0;
+ background-color: #f2f2f2;
+ top: -160px; 
+}

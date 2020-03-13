@@ -1,10 +1,10 @@
 @import url(./__table_theme_dark/kaufman__table_theme_dark.css);
 .kaufman__table {
-    display: flex;
-    flex-wrap: wrap;
-    width: 1100px;
-    margin: 0 auto 90px;
-    justify-content: space-between;
-    }
+  display: flex;
+  flex-wrap: wrap;
+  width: 1100px;
+  margin: 0 auto 90px;
+  justify-content: space-between;
+}
     
     

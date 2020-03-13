@@ -1,9 +1,8 @@
-
-    .digits__table-cell {
-    display: flex;
-    width: 250px;
-    flex-direction: column;
-    margin-top: 60px;
-    }
+.digits__table-cell {
+  display: flex;
+  width: 250px;
+  flex-direction: column;
+  margin-top: 60px;
+}
     
    

@@ -1,29 +1,25 @@
-/*div {
-    border: 2px solid red;   
-}
-*/
-
 .page {
-    min-width: 1100px;
+  min-width: 1100px;
         /* мы ещё не умеем делать мобильную версию сайта, */
         /* поэтому выше установлена минимальная ширина страницы */
-    max-width: 1600px;
+  max-width: 1600px;
         /* выше установили ограничение по максимальной ширине */
-    margin: 0 auto;
+  margin: 0 auto;
         /* выше для экранов больше 1600px отцентрировали весь контент */
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    }
-    .opacity {
-        -moz-transition: all 0.4s; 
-        -webkit-transition: all 0.4s;  
-        -ms-transition: all 0.4s;  
-        -o-transition: all 0.4s;  
-        transition: all 0.4s; 
-        opacity:1;
-        filter:alpha(opacity=100);
-        }
-         
-        .opacity:hover {
-        opacity:0.5;
-        filter:alpha(opacity=50);
-        }
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.opacity {
+  -moz-transition: all 0.4s; 
+  -webkit-transition: all 0.4s;  
+  -ms-transition: all 0.4s;  
+  -o-transition: all 0.4s;  
+  transition: all 0.4s; 
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.opacity:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}

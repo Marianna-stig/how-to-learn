@@ -1,8 +1,9 @@
 @import url(./__section-title/resources__section-title.css);
 @import url(./__section-subtitle/resources__section-subtitle.css);
-@import url(./__logo/resources__logo.css);
 @import url(./__logo-zone/resources__logo-zone.css);
+@import url(./__logo/resources__logo.css);
+@import url(./__logo-image/resources__logo-image.css);
 
 .resources {
-    margin: 100px auto 0;
+  margin: 100px auto 0;
 }

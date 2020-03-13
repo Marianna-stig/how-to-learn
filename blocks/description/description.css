@@ -1,5 +1,5 @@
 @import url(./two-columns/two-columns.css);
-       .description {
-        display: flex;
-        justify-content: center;   
-        }
+ .description {
+   display: flex;
+   justify-content: center;   
+}

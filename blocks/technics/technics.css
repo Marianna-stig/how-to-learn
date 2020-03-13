@@ -6,10 +6,7 @@
 @import url(./__cards-item/technics__cards-item.css);
 @import url(./__cards-title/technics__cards-title.css);
 
-
-
 .technics {
-    width: 80%;
-    margin: auto;
-    
+  width: 80%;
+  margin: 0 auto;
 }

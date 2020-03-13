@@ -6,6 +6,6 @@
 @import url(./__table-text/digits__table-text.css);
 
 .digits {
-    margin: 100px auto;
-    }
-  
+    position: relative;
+    bottom: -100px;
+}
